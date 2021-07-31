@@ -1,4 +1,4 @@
-# rustbook-jp
+# rustbook-ja
 
 https://github.com/rust-lang-ja/book-ja  (元はApache2.0, MITのデュアルライセンス)
 
